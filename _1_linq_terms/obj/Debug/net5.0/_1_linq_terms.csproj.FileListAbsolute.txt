@@ -1,0 +1,15 @@
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/bin/Debug/net5.0/_1_linq_terms.deps.json
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/bin/Debug/net5.0/_1_linq_terms.runtimeconfig.json
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/bin/Debug/net5.0/_1_linq_terms.runtimeconfig.dev.json
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/bin/Debug/net5.0/_1_linq_terms.dll
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/bin/Debug/net5.0/ref/_1_linq_terms.dll
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/bin/Debug/net5.0/_1_linq_terms.pdb
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.csprojAssemblyReference.cache
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.AssemblyInfoInputs.cache
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.AssemblyInfo.cs
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.csproj.CoreCompileInputs.cache
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.dll
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/ref/_1_linq_terms.dll
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.pdb
+/Volumes/mart/my-codes/linq-samples/_1_linq_terms/obj/Debug/net5.0/_1_linq_terms.genruntimeconfig.cache

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Books>
+  <Book>
+    <Name>Fight Club</Name>
+    <Author>Chuck Palahniuk</Author>
+    <Price>10</Price>
+  </Book>
+  <Book>
+    <Name>Julius Caesar</Name>
+    <Author>William Shakespeare</Author>
+    <Price>23</Price>
+  </Book>
+  <Book>
+    <Name>Dubliners</Name>
+    <Author>James Joyce</Author>
+    <Price>45</Price>
+  </Book>
+</Books>
